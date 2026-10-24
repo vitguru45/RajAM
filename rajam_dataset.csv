@@ -1,0 +1,43 @@
+id,material,process,P_W,v_mms,hatch_um,layer_um,spot_um,feed_gmin,preheat_C,ht,ht_T_C,ht_t_h,HV,rel_density_pct,quality,source,doi,notes
+B01,SS316L,LPBF,150,800,40,30,,,,AB,,,210,98.60,tabulated,Bakhtiarian et al. 2024 JMR&T 29:1616,10.1016/j.jmrt.2024.01.237,Table 3/6
+B02,SS316L,LPBF,150,1200,40,40,,,,AB,,,205,98.20,tabulated,Bakhtiarian et al. 2024 JMR&T 29:1616,10.1016/j.jmrt.2024.01.237,
+B03,SS316L,LPBF,150,1600,40,50,,,,AB,,,189,96.70,tabulated,Bakhtiarian et al. 2024 JMR&T 29:1616,10.1016/j.jmrt.2024.01.237,
+B04,SS316L,LPBF,150,2000,40,60,,,,AB,,,179,96.30,tabulated,Bakhtiarian et al. 2024 JMR&T 29:1616,10.1016/j.jmrt.2024.01.237,
+B05,SS316L,LPBF,180,800,40,40,,,,AB,,,207,99.05,tabulated,Bakhtiarian et al. 2024 JMR&T 29:1616,10.1016/j.jmrt.2024.01.237,
+B06,SS316L,LPBF,180,1200,40,30,,,,AB,,,220,99.50,tabulated,Bakhtiarian et al. 2024 JMR&T 29:1616,10.1016/j.jmrt.2024.01.237,
+B07,SS316L,LPBF,180,1600,40,60,,,,AB,,,190,96.80,tabulated,Bakhtiarian et al. 2024 JMR&T 29:1616,10.1016/j.jmrt.2024.01.237,
+B08,SS316L,LPBF,180,2000,40,50,,,,AB,,,190,96.90,tabulated,Bakhtiarian et al. 2024 JMR&T 29:1616,10.1016/j.jmrt.2024.01.237,
+B09,SS316L,LPBF,210,800,40,50,,,,AB,,,199,97.65,tabulated,Bakhtiarian et al. 2024 JMR&T 29:1616,10.1016/j.jmrt.2024.01.237,
+B10,SS316L,LPBF,210,1200,40,60,,,,AB,,,195,97.78,tabulated,Bakhtiarian et al. 2024 JMR&T 29:1616,10.1016/j.jmrt.2024.01.237,
+B11,SS316L,LPBF,210,1600,40,30,,,,AB,,,192,97.30,tabulated,Bakhtiarian et al. 2024 JMR&T 29:1616,10.1016/j.jmrt.2024.01.237,
+B12,SS316L,LPBF,210,2000,40,40,,,,AB,,,187,96.90,tabulated,Bakhtiarian et al. 2024 JMR&T 29:1616,10.1016/j.jmrt.2024.01.237,
+B13,SS316L,LPBF,240,800,40,60,,,,AB,,,191,96.60,tabulated,Bakhtiarian et al. 2024 JMR&T 29:1616,10.1016/j.jmrt.2024.01.237,
+B14,SS316L,LPBF,240,1200,40,50,,,,AB,,,188,96.90,tabulated,Bakhtiarian et al. 2024 JMR&T 29:1616,10.1016/j.jmrt.2024.01.237,
+B15,SS316L,LPBF,240,1600,40,40,,,,AB,,,186,96.80,tabulated,Bakhtiarian et al. 2024 JMR&T 29:1616,10.1016/j.jmrt.2024.01.237,
+B16,SS316L,LPBF,240,2000,40,30,,,,AB,,,180,96.50,tabulated,Bakhtiarian et al. 2024 JMR&T 29:1616,10.1016/j.jmrt.2024.01.237,
+A01,SS316L,LDED,475,6.667,,,500,10,,AB,,,232.3,99.0,tabulated,Amar et al. 2023 Materials 16:7253,10.3390/ma16237253,LENS; rel. density = rho/8.00
+A02,SS316L,LDED,250,3.333,,,500,30,,AB,,,163.3,91.5,tabulated,Amar et al. 2023 Materials 16:7253,10.3390/ma16237253,
+A03,SS316L,LDED,700,10.0,,,500,10,,AB,,,208.43,98.1,tabulated,Amar et al. 2023 Materials 16:7253,10.3390/ma16237253,
+A04,SS316L,LDED,475,3.333,,,500,20,,AB,,,166.43,95.4,tabulated,Amar et al. 2023 Materials 16:7253,10.3390/ma16237253,
+A05,SS316L,LDED,700,3.333,,,500,10,,AB,,,177.1,98.4,tabulated,Amar et al. 2023 Materials 16:7253,10.3390/ma16237253,
+A06,SS316L,LDED,250,6.667,,,500,20,,AB,,,189.17,95.9,tabulated,Amar et al. 2023 Materials 16:7253,10.3390/ma16237253,
+A07,SS316L,LDED,475,6.667,,,500,20,,AB,,,177.27,94.6,tabulated,Amar et al. 2023 Materials 16:7253,10.3390/ma16237253,centre point
+A08,SS316L,LDED,700,6.667,,,500,20,,AB,,,177.93,97.6,tabulated,Amar et al. 2023 Materials 16:7253,10.3390/ma16237253,
+A09,SS316L,LDED,475,6.667,,,500,20,,AB,,,187.87,95.1,tabulated,Amar et al. 2023 Materials 16:7253,10.3390/ma16237253,centre point replicate
+A10,SS316L,LDED,250,3.333,,,500,10,,AB,,,182.87,98.1,tabulated,Amar et al. 2023 Materials 16:7253,10.3390/ma16237253,
+A11,SS316L,LDED,475,10.0,,,500,20,,AB,,,191.63,94.8,tabulated,Amar et al. 2023 Materials 16:7253,10.3390/ma16237253,
+A12,SS316L,LDED,700,3.333,,,500,30,,AB,,,171.43,98.3,tabulated,Amar et al. 2023 Materials 16:7253,10.3390/ma16237253,
+A13,SS316L,LDED,250,10.0,,,500,30,,AB,,,161.12,95.3,tabulated,Amar et al. 2023 Materials 16:7253,10.3390/ma16237253,
+A14,SS316L,LDED,700,10.0,,,500,30,,AB,,,169.03,96.6,tabulated,Amar et al. 2023 Materials 16:7253,10.3390/ma16237253,
+A16,SS316L,LDED,475,6.667,,,500,30,,AB,,,168.0,95.6,tabulated,Amar et al. 2023 Materials 16:7253,10.3390/ma16237253,
+N01,SS316L,LDED,420,30,,200,1200,9.5,,AB,,,207,,reported-extreme,Ali; Taha; Previtali 2026 Iraqi J. Laser 25(1),,approx. max of reported 185.4-207.3 HV range
+N02,SS316L,LDED,800,20,,200,1200,9.5,,AB,,,185,,reported-extreme,Ali; Taha; Previtali 2026 Iraqi J. Laser 25(1),,approx. min of reported range
+C01,18Ni300,LPBF,200,812,80,40,75,,,AB,,,371,,reported,Casati et al. 2016 Metals 6:218,10.3390/met6090218,speed derived from 65 um point distance / 80 us exposure
+C02,18Ni300,LPBF,200,812,80,40,75,,,ST,815,0.5,279,,reported,Casati et al. 2016 Metals 6:218,10.3390/met6090218,solution 815C 30 min WQ
+H01,18Ni300,LPBF,300,920,110,50,76,,,AB,,,310,,reported,Hu et al. 2025 Materials 18:2284,10.3390/ma18102284,
+H02,18Ni300,LPBF,300,920,110,50,76,,,SA,490,7,710,,reported,Hu et al. 2025 Materials 18:2284,10.3390/ma18102284,820C 2h WQ + 490C 7h
+G01,H13,LPBF,400,790,120,50,80,,,AB,,,590,,reported-range,Nagahama et al. 2019 SFF Symp. pp.677-683,,midpoint of 580-600 HV; power from text (figure label says 375 W)
+K01,H13,LPBF,300,1175,80,60,,,350,AB,,,604,99.6,reported-approx,Kosarava et al. 2026 Materials 19:210,10.3390/ma19010210,P/v/h = centre of reported window; preheat 350C
+K02,H13,LPBF,300,1175,80,60,,,350,QT,500,2,624,99.6,reported-approx,Kosarava et al. 2026 Materials 19:210,10.3390/ma19010210,quench + temper 500C (time assumed 2 h)
+K03,H13,LPBF,300,1175,80,60,,,350,QT,550,2,618,99.6,reported-approx,Kosarava et al. 2026 Materials 19:210,10.3390/ma19010210,quench + temper 550C (time assumed 2 h)
+S01,17-4PH,LDED,425,11.43,,,,,,AB,,,440,,reported-approx,Sharma et al. 2024 Adv. Mater. Technol. 9:2400024,,QT17-4+ variant; centre-point parameters; feed in rpm (not converted)
