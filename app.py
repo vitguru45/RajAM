@@ -96,7 +96,7 @@ def log_use(row):
 @st.cache_resource(show_spinner="Training analytical calibration + ML models (first load only)…")
 def get_bundle(extra_csv_hash=None, extra_csv=None):
     extra = pd.read_csv(io.StringIO(extra_csv)) if extra_csv else None
-    df = M.load_dataset(os.path.join(APP_DIR, "data", "rajam_dataset.csv"), extra)
+    df = M.load_dataset(os.path.join(APP_DIR, "rajam_dataset.csv"), extra)
     return M.ModelBundle(df)
 
 
