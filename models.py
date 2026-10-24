@@ -24,7 +24,7 @@ PROCS = ["LPBF", "LDED"]
 DEFAULT_SPOT = {"LPBF": 70.0, "LDED": 800.0}
 
 
-def load_dataset(path="data/rajam_dataset.csv", extra=None):
+def load_dataset(path="rajam_dataset.csv", extra=None):
     df = pd.read_csv(path)
     if extra is not None and len(extra):
         df = pd.concat([df, extra], ignore_index=True)
